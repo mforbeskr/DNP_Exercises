@@ -1,10 +1,10 @@
-namespace Ex1;
+namespace Ex3;
 
 public class Student
 {
     public int Age { get; set; }
-    public string School { get; set; }
-    public string Hometown { get; set; }
+    public string? School { get; set; }
+    public string? Hometown { get; set; }
     
     public void  Introduce()
     {
