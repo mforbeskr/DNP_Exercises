@@ -1,4 +1,4 @@
-﻿using Ex1;
+﻿using Ex3;
 
 var p1 = new Person();
 p1.Name = "Helle";
